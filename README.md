@@ -1,4 +1,11 @@
 # Basic-Machine-Learning
-This repo includes an implementation of a naive-bayes classifer, k-means clustering algorithm, and apriori algorithm implemented on a yelp dataset included in the files. I wrote these programs for an introductory class on data mining.
+Implementations of core ML algorithms. Current algorithms implemented are:
+- Naive-Bayes classifer
+- K-means clustering
+- Apriori algorithm
 
-General usage of each of these programs are detailed within the comments of each file.
+As of now, these algorithms can't be applied to other datasets besides the yelp-dataset provided in the files. This is a work in progress, 
+
+## TODO:
+ - More algorithms
+ - Integrating general usage for any arbitrary dataset
